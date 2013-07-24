@@ -19,13 +19,11 @@ Road Map (Target Modules - Not Implemented Yet)
 -------------------------
 
 * Init, Configuration
-
 * Datastore
 	* Create New Object
 	* Save Object
 	* Update Object
 	* Delete Object
-
 * Queries
 	* Comparison
 	* Chaining
@@ -33,12 +31,10 @@ Road Map (Target Modules - Not Implemented Yet)
 	* Pagination
 	* Select Fields
 	* Count
-
 * Relationships
 	* Relating Objects
 	* One to One Relationship
 	* One to Many Relationship
-
 * Users
 	* Creating a User
 	* Fetching a User
